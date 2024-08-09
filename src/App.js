@@ -10,7 +10,7 @@ const App = () => {
             <nav className='navbar navbar-expand bg-gray justify-content-center'>
                 <div className='navbar-nav'>
                     <li className='nav-item mx-5'>
-                        <Link to={""} className='nav-link'>Inicio</Link>
+                        <Link to={"https://es.react.dev"} className='nav-link'>Inicio</Link>
                     </li>
                     <li className='nav-item mx-5'>
                         <Link to={""} className='nav-link'>Aplicaciones</Link>
