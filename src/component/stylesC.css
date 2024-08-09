@@ -1,0 +1,10 @@
+img .media-img {
+    width: 15px;
+    height: 15px;
+}
+
+img:hover .media-img {
+    opacity: 0.75;
+    transform: scale(1.1);
+    transition: opacity 0.3s ease, transform 0.3s ease;
+}

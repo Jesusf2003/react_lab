@@ -1,0 +1,24 @@
+.title-container {
+    text-align: center;
+}
+
+.title {
+    color: #b8b8b8;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.show-hour {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    background-color: #b8b8b8;
+    padding: 0.1rem 0.1rem 0.1rem 0.1rem;
+    display: flex;
+}
+
+.show-time {
+    flex: 1;
+    margin-top: 5px;
+    margin-bottom: 5px;
+    color: #ffffff;
+}

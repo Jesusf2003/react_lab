@@ -3,6 +3,7 @@ import './App.css'
 import { Link } from 'react-router-dom';
 import ComponentA from './component/componentA'
 import ComponentB from './component/componentB'
+import ComponentC from './component/componentC';
 
 const App = () => {
     return(
@@ -31,6 +32,9 @@ const App = () => {
             </div>
             <div>
                 <ComponentB />
+            </div>
+            <div>
+                <ComponentC />
             </div>
         </div>
     );

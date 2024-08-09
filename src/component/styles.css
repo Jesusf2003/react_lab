@@ -1,41 +1,4 @@
-.title-container {
-    text-align: center;
-}
-
-.title {
-    color: #b8b8b8;
-    padding-top: 10px;
-    padding-bottom: 15px;
-}
-
-.title-b {
-    color: #b8b8b8;
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
-
-.show-hour {
-    margin-top: 5px;
-    margin-bottom: 5px;
-    background-color: #b8b8b8;
-    padding: 0.1rem 0.1rem 0.1rem 0.1rem;
-    display: flex;
-}
-
-.bg-main {
-    padding: 5rem 5rem 5rem 5rem;
-    background-color: #b8b8b8;
-}
-
-.nav-link {
-    text-decoration: underline;
-    color: #f2f2f2;
-}
-
-img .main {
-    border: 10px solid #b8b8b8;
-}
-
 img {
-    border: 2px solid #b8b8b8;
+    border: 3px solid #b8b8b8;
+    border-radius: 5px;
 }

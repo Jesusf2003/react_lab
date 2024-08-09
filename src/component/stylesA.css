@@ -1,0 +1,14 @@
+.title-container {
+    text-align: center;
+}
+
+.title {
+    color: #b8b8b8;
+    padding-top: 10px;
+    padding-bottom: 15px;
+}
+
+.main-image {
+    padding: 5rem 5rem 5rem 5rem;
+    background-color: #b8b8b8;
+}
