@@ -1,4 +1,3 @@
-import './styles.css'
 import './stylesC.css'
 
 const ComponentC = () => {

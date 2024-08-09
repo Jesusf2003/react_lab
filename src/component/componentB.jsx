@@ -36,18 +36,20 @@ const ComponentB = () => {
         </div>
         <div>
             <h2 className='title'>¿Qué podemos hacer con React?</h2>
-            <div className='row'>
-                <div class="col-md-3">
-                    <img src='../img/demo1.jpg' height={"150px"} width={"300px"}></img>
-                </div>
-                <div class="col-md-3">
-                    <img src='../img/demo1.jpg' height={"150px"} width={"300px"}></img>
-                </div>
-                <div class="col-md-3">
-                    <img src='../img/demo1.jpg' height={"150px"} width={"300px"}></img>
-                </div>
-                <div class="col-md-3">
-                    <img src='../img/demo1.jpg' height={"150px"} width={"300px"}></img>
+            <div className='banner-content'>
+                <div className='row'>
+                    <div class="col-md-3">
+                        <img src='../img/demo1.jpg' height={"150px"} width={"300px"}></img>
+                    </div>
+                    <div class="col-md-3">
+                        <img src='../img/demo1.jpg' height={"150px"} width={"300px"}></img>
+                    </div>
+                    <div class="col-md-3">
+                        <img src='../img/demo1.jpg' height={"150px"} width={"300px"}></img>
+                    </div>
+                    <div class="col-md-3">
+                        <img src='../img/demo1.jpg' height={"150px"} width={"300px"}></img>
+                    </div>
                 </div>
             </div>
         </div>
